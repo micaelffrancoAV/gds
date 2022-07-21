@@ -1,0 +1,11 @@
+{
+  "name": "gds",
+  "version": "1.0.0",
+  "description": "service to upload file to google drive",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^105.0.0"
+  }
+}
